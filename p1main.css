@@ -1,0 +1,25 @@
+/* Place CSS styles here */
+body{
+    font-family: "DM Serif Text", serif;
+  font-weight: 400;
+  font-style: normal;
+  text-align: center;
+  background-image:"bkgdgamer.webp";
+
+}
+  
+.genres {
+    text-align: left;
+    list-style-position: inside;
+}
+
+.consoles{
+    text-align: right;
+    list-style-position: inside;
+}
+
+.image {
+   width: 500px;
+   position: center;
+   
+}
