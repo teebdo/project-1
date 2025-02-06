@@ -4,25 +4,36 @@ body{
   font-weight: 400;
   font-style: normal;
   text-align: center;
-  color: #dfe6ec;
-background-image: url(./images/bkgdgamer.webp);
+  color: #000000;
+background-image: url(./images/scribbles.jpg);
 background-position: center;
 background-repeat: no-repeat;
 background-size: cover;
+background-color: #00ffff;
 }
-  
+.heading{
+    background-color: #00ffff;
+}
+.xboxlogo{
+    width: 500px;
+}
 .genres {
     text-align: left;
     list-style-position: inside;
+    background-color: #09ff00;
+}
+.howitworks{
+    background-color: #00ffff;
 }
 
 .consoles{
     text-align: right;
     list-style-position: inside;
+    background-color: #09ff00;
 }
-
-.image {
-   width: 500px;
-   position: center;
-   
+.pclogo{
+    width: 500px;
+}
+.foot{
+    background-color: #00ffff;
 }
