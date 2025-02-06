@@ -4,8 +4,11 @@ body{
   font-weight: 400;
   font-style: normal;
   text-align: center;
-  background-color: #06bcff;
-
+  color: #dfe6ec;
+background-image: url(./images/bkgdgamer.webp);
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
 }
   
 .genres {
