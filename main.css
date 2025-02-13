@@ -1,4 +1,6 @@
 /* Place CSS styles here */
+
+
 body{
     font-family: "DM Serif Text", serif;
   font-weight: 400;
@@ -10,6 +12,7 @@ background-position: center;
 background-repeat: no-repeat;
 background-size: cover;
 background-color: #00ffff;
+box-sizing:border-box
 }
 .heading{
     background-color: #00ffff;
@@ -36,4 +39,28 @@ background-color: #00ffff;
 }
 .foot{
     background-color: #00ffff;
+}
+
+.container{
+    display: flex; grid-template-columns: 250px 3fr; row-gap: 200px; justify-content: center;
+
+
+}
+.left{
+    width: 500px;
+    
+
+}
+.middle{
+    width: 500px;
+    
+}
+.right{
+    width: 500px;
+    
+}
+.FBGM{
+    display: flex; grid-template-columns: 250px; row-gap: 30px; justify-content: center; color: aliceblue;
+    text-size-adjust: 10%;
+
 }
