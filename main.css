@@ -60,7 +60,5 @@ box-sizing:border-box
     
 }
 .FBGM{
-    display: flex; grid-template-columns: 250px; row-gap: 30px; justify-content: center; color: aliceblue;
-    text-size-adjust: 10%;
-
+    display: flex;
 }
